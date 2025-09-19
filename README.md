@@ -20,9 +20,9 @@
 ---
 
 ## 📊 GitHub Stats  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)  
-![Streak Stats](https://streak-stats.demolab.com?user=your-username&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=roshanbirgonda&show_icons=true&theme=radical)  
+![Streak Stats](https://streak-stats.demolab.com?user=roshanbirgonda&theme=radical)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=roshanbirgonda&layout=compact)
 
 
 ---
