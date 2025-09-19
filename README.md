@@ -6,9 +6,8 @@
 
 ## 🚀 About Me  
 - 🔭 Working on AI-driven data visualization & automation tools  
-- 🌱 Learning Spring Boot, Docker, and DevOps practices  
-- 👯 Open to collaborating on Java/AI/Full-Stack projects  
-- ⚡ Fun fact: I built a custom ML model at age 8 🚀  
+- 🌱 Learning Spring Boot, Docker & Artificial Intelligence.
+- 👯 Open to collaborating on Java/AI/Full-Stack projects   
 
 ---
 
@@ -25,15 +24,6 @@
 ![Streak Stats](https://streak-stats.demolab.com?user=your-username&theme=radical)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact)
 
----
-
-## 📂 Featured Projects  
-- [Stock Market AI Assistant](https://github.com/your-username/stock-assistant)  
-- [Data Visualization App](https://github.com/your-username/data-viz-app)  
-- [Resume Builder Tool](https://github.com/your-username/resume-app)
 
 ---
 
-## 📫 Connect with Me  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-link)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://your-portfolio-link.com)
