@@ -1,6 +1,6 @@
 # Hi, I'm Roshan 👋  
 
-🎓 Student @ Stanford | 💻 Aspiring Java Backend Developer | 📊 AI & Data Enthusiast  
+🎓 Student @Neil_Gogte_Institute_of_Technology | 💻 Aspiring Java Backend Developer | 📊 AI & Data Enthusiast  
 
 ---
 
